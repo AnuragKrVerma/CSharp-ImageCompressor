@@ -1,0 +1,6 @@
+@ImageCompressor_HostAddress = http://localhost:5059
+
+GET {{ImageCompressor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
